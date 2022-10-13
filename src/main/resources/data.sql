@@ -1,0 +1,10 @@
+INSERT INTO socialsecuritynumber (code, statename) VALUES (1, 'Alaska');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (2, 'Ohio');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (3, 'Rode Island');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (4, 'New York');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (5, 'Los Angels');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (6, 'New Jersey');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (7, 'Pensilvania');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (8, 'Virginia');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (9, 'Alabama');
+INSERT INTO socialsecuritynumber (code, statename) VALUES (10, 'Arizona');
